@@ -1,0 +1,76 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l10\com.python.pydev.analysis\v2_indexcache
+functions|1543268582617569000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\functions.py
+t10|1543258615822830000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t10.py
+t01|1542928578595221000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t01.py
+t11|1543258989248960000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t11.py
+t03|1542928863125103000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t03.py
+t02|1542928773339129000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t02.py
+t13|1543263481170052000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t13.py
+t05|1543264502807242000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t05.py
+t04|1543255299229845000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t04.py
+t15|1543265608534154000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t15.py
+t07|1543257368435256000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t07.py
+t06|1543256965697311000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t06.py
+t09|1543266711023428000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t09.py
+t08|1543257713938935000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+28
+13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t02.py
+22=functions
+27=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t06.py
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t04.py
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t08.py
+25=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t11.py
+2=t10
+23=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t13.py
+26=t11
+24=t13
+20=t15
+19=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t15.py
+17=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t01.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t03.py
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t05.py
+15=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t07.py
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t09.py
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\t10.py
+18=t01
+4=t03
+14=t02
+12=t05
+8=t04
+16=t07
+28=t06
+10=t09
+21=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l10\src\functions.py
+6=t08
+-- END DICTIONARY
+-- START TREE 1
+21
+c|1|c!1^21#1*19@
+col|10|cols!3^14#1*35@cols!5^14#1*51@cols!1^14#1*19@cols!7^14#1*67@cols!9^14#1*83@cols!11^14#1*99@cols!13^14#1*115@cols!15^14#1*131@cols!17^14#1*147@COLS!19^14#1*163@
+cou|2|count!1^23#1*19@count_frequency!21^266#5*178@
+fin|5|find_less!21^238#5*178@find_word_horizontal!21^289#5*178@find_word_vertical!21^314#5*178@find_position!21^204#5*178@find_word_diagonal!21^336#5*178@
+fou|1|found!23^22#1*195@
+gen|2|generate_matrix_char!21^41#5*178@generate_matrix_num!21^13#5*178@
+hig|7|high!15^16#1*131@HIGH!19^16#1*163@high!17^16#1*147@high!3^16#1*35@high!5^16#1*51@high!7^16#1*67@high!9^16#1*83@
+loc|1|loc!9^23#1*83@
+low|7|low!5^15#1*51@low!3^15#1*35@low!9^15#1*83@low!7^15#1*67@LOW!19^15#1*163@low!17^15#1*147@low!15^15#1*131@
+mat|17|matrix_distinct_values!21^62#5*178@matrix!17^19#1*147@matrix!1^16#1*19@matrix!25^16#1*211@matrix!3^19#1*35@matrix!7^19#1*67@matrix!19^18#1*163@matrix!13^16#1*115@matrix!23^16#1*195@matrix!27^15#1*227@matrix!11^16#1*99@matrix_T!19^22#1*163@matrix_equal!21^399#5*178@matrix!9^19#1*83@matrix!15^18#1*131@matrix_transpose!21^379#5*178@matrix!5^18#1*51@
+n|1|n!9^17#1*83@
+pri|2|print_matrix_char!21^124#5*178@print_matrix_num!21^95#5*178@
+row|11|rows!25^22#1*211@rows!11^13#1*99@rows!1^13#1*19@rows!17^13#1*147@ROWS!19^13#1*163@rows!5^13#1*51@rows!13^13#1*115@rows!15^13#1*131@rows!7^13#1*67@rows!9^13#1*83@rows!3^13#1*35@
+sca|1|scalar_multiply!21^361#5*178@
+sta|1|stats!21^173#5*178@
+str|3|strings!23^13#1*195@strings!25^13#1*211@strings!27^13#1*227@
+typ|3|type!17^17#1*147@type!3^17#1*35@type!7^17#1*67@
+val|1|value!9^26#1*83@
+wor|3|word!23^20#1*195@words_to_matrix!21^147#5*178@word!25^20#1*211@
+x|1|x!9^24#1*83@
+y|1|y!9^25#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

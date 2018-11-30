@@ -1,0 +1,33 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-28
+------------------------------------------------------------------------
+"""
+alphabet = "abcdefghijklmnopqrstuvwxyz"
+vignereTable = [[char for char in alphabet] for char2 in alphabet]
+for line in vignereTable:
+    print(line)
+    
+filename = "mp4in.txt"
+fh = open(filename, "r")
+
+key = input("Enter key: ")
+
+def encode(fh, key):
+    """
+    Encodes a file by a Vignere Table given a key
+    """
+    fh.seek(0)
+    file_contents = fh.readlines()
+    
+    for i in range(len(file_contents)):
+        for j in range(len(file_contents[i])):
+            print(j)
+    return
+
+encode(fh, key)

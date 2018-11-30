@@ -1,0 +1,15 @@
+"""
+------------------------------------------------------------------------
+Assignment 10, Task 6 - Grayscale
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-29
+------------------------------------------------------------------------
+"""
+from functions import to_gray, grayscale
+
+fh_in = open("stupidColour.bmp", "rb")
+fh_out = open("stupidColour_gray.bmp", "wb")
+

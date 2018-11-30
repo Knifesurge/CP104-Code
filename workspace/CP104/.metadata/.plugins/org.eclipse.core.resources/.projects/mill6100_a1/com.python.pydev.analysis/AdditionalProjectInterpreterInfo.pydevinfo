@@ -1,0 +1,24 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a1\com.python.pydev.analysis\v2_indexcache
+t01|1538516506617147000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a1\src\t01.py
+t03|1538516506715351000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a1\src\t03.py
+t02|1538516506671497000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a1\src\t02.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a1\src\t03.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a1\src\t02.py
+2=t03
+4=t02
+-- END DICTIONARY
+-- START TREE 1
+4
+cos|1|cost_of_pizza!1^11#1*19@
+fav|2|fav_food!3^12#1*35@fav_tv_show!3^11#1*35@
+num|1|num_pizzas!1^12#1*19@
+tot|1|total!1^13#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

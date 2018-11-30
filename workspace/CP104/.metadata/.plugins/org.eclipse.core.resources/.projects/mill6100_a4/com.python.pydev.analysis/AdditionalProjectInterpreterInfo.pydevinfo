@@ -1,0 +1,60 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a4\com.python.pydev.analysis\v2_indexcache
+t01|1538516507604784000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t01.py
+t03|1538591495187416000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t03.py
+t02|1538590728517299000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t02.py
+t05|1538690385767365000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t05.py
+t04|1539617250999130000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t04.py
+t06|1539540510948263000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+8=t01
+10=t03
+12=t02
+2=t05
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t03.py
+6=t04
+4=t06
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t05.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t06.py
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t04.py
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t01.py
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a4\src\t02.py
+-- END DICTIONARY
+-- START TREE 1
+29
+adu|2|ADULT_PRICE!1^15#1*19@ADULT_AGE!1^14#1*19@
+aga|1|again!3^13#1*35@
+age|1|age!1^28#5*19@
+ano|2|another_item!5^17#1*51@another_purchase!1^25#1*19@
+ans|1|answer!3^24#5*35@
+ave|1|average!7^38#1*67@
+can|1|candy_limit!9^11#1*83@
+col|1|COLD_DAY!7^13#1*67@
+cou|1|count!3^15#1*35@
+cur|1|current_population!11^11#1*99@
+gro|1|growth_rate!11^12#1*99@
+hot|1|HOT_DAY!7^11#1*67@
+inf|2|INFANT_PRICE!1^17#1*19@INFANT_AGE!1^16#1*19@
+int|1|intermediate_population!11^17#1*99@
+ite|1|item_cost!5^15#1*51@
+kid|1|KID_PRICE!1^21#1*19@
+min|2|minimum_budget_spending!5^14#1*51@MINIMUM_BUDGET_PERCENTAGE!5^11#1*51@
+num|8|number1!3^19#5*35@num_correct!3^14#1*35@num_hot!7^17#1*67@num_pleasant!7^18#1*67@number2!3^20#5*35@num_cold!7^19#1*67@num_candies!9^13#1*83@num_temps!7^16#1*67@
+ove|1|over_limit!9^21#5*83@
+par|1|party_budget!5^13#1*51@
+ple|1|PLEASANT_DAY!7^12#1*67@
+rem|1|remaining_budget!5^18#1*51@
+sen|2|SENIOR_AGE!1^12#1*19@SENIOR_PRICE!1^13#1*19@
+stu|4|student!1^36#9*19@STUDENT_AGE_LO!1^18#1*19@STUDENT_PRICE!1^20#1*19@STUDENT_AGE_HI!1^19#1*19@
+tar|1|target_population!11^13#1*99@
+tem|1|temperature!7^22#1*67@
+tot|3|total_price!1^23#1*19@total!7^20#1*67@total_cost!5^16#1*51@
+use|1|user_answer!3^25#5*35@
+yea|1|years!11^15#1*99@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

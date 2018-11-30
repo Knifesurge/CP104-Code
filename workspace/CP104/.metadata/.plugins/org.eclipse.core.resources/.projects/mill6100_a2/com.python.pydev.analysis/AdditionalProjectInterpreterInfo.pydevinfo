@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a2\com.python.pydev.analysis\v2_indexcache
+t01|1538516506891704000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t01.py
+t03|1538516506983095000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t03.py
+t02|1538516506929405000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t02.py
+t05|1538516507045221000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t05.py
+t04|1538516507016499000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t04.py
+t06|1538516507083172000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+12
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t01.py
+12=t01
+8=t03
+10=t02
+2=t05
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t06.py
+4=t04
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t05.py
+6=t06
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t04.py
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t03.py
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a2\src\t02.py
+-- END DICTIONARY
+-- START TREE 1
+21
+PI|1|PI!1^11#1*19@
+amt|1|amt_borrowed!3^11#1*35@
+are|2|area_of_outside!1^19#1*19@area_of_base!1^18#1*19@
+dia|1|diameter_of_base!1^12#1*19@
+fly|1|flyers_per_volunteer!5^14#1*51@
+hei|1|height_of_container!1^13#1*19@
+int|1|interest_rate!3^12#1*35@
+lar|1|large_dog_cost!7^11#1*67@
+lef|1|leftover_flyers!5^15#1*51@
+len|1|length_of_loan!3^13#1*35@
+mat|1|material_cost!1^14#1*19@
+mon|1|monthly_payment!3^15#1*35@
+mov|1|movie_cost!9^12#1*83@
+num|5|num_volunteers!5^12#1*51@num_containers!1^15#1*19@num_flyers!5^11#1*51@num_small_dogs_groomed!7^15#1*67@num_large_dogs_groomed!7^14#1*67@
+pro|3|projected_annual_sales!11^12#1*99@profit_percentage!11^11#1*99@projected_profit!11^14#1*99@
+rad|1|radius_of_base!1^16#1*19@
+sin|1|single_cost!1^22#1*19@
+sma|1|small_dog_cost!7^12#1*67@
+stu|2|student_cost!9^13#1*83@student_discount!9^11#1*83@
+sur|1|surface_area!1^20#1*19@
+tot|2|total_earned!7^17#1*67@total_cost!1^23#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

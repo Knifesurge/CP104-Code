@@ -1,0 +1,143 @@
+
+-------------------------------------------------------
+Assignment 6  Testing
+-------------------------------------------------------
+Author  Nicolas Mills
+ID      180856100
+Email   mill6100@mylaurier.ca
+Version 2018-11-05
+-------------------------------------------------------
+
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Lightbulb wattage (w): 225
+Brightness: 1675 lumens
+
+Lightbulb wattage (w): 100
+Brightness: 1675 lumens
+
+Lightbulb wattage (w): 80
+Brightness: 1000 lumens
+
+Lightbulb wattage (w): 70
+Brightness: 880 lumens
+
+Lightbulb wattage (w): 50
+Brightness: 500 lumens
+
+Lightbulb wattage (w): 30
+Brightness: 215 lumens
+
+Lightbulb wattage (w): 15
+Brightness: 125 lumens
+
+Lightbulb wattage (w): 10
+Invalid wattage
+
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+Amount borrowed: $100
+Interest rate: 10
+Length of loan (months): 12
+The monthly payment is $8.79
+
+Amount borrowed: $10000
+Interest rate: 3
+Length of loan (months): 48
+The monthly payment is $221.34
+
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+Enter number of nickels: 3
+Enter number of dimes: 0
+Enter number of quarters: 20
+Enter number of loonies: 3
+Enter number of toonies: 1
+Total: $10.15
+
+
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+Enter numerator of fraction 1: 4
+Enter denominator of fraction 1: 7
+Enter numerator of fraction 2: 2
+Enter denominator of fraction 2: 10
+Product: 8/70
+Fraction: 0.11
+
+Enter numerator of fraction 1: 2
+Enter denominator of fraction 1: 1
+Enter numerator of fraction 2: 90
+Enter denominator of fraction 2: 1203
+Product: 180/1203
+Fraction: 0.15
+
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+Number of seconds: 999999
+999999 seconds is the same as: 
+11 days
+277 hours
+16666 minutes
+
+Number of seconds: 1000000000000
+1000000000000 seconds is the same as: 
+11574074 days
+277777777 hours
+16666666666 minutes
+
+Number of seconds: 1000000
+1000000 seconds is the same as: 
+11 days
+277 hours
+16666 minutes
+
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+Number of seconds: 999999
+Days: 11, Hours: 16402, Minutes: 39, Seconds: 9
+
+Number of seconds: 956000
+Days: 11, Hours: 15669, Minutes: 20, Seconds: 20
+
+-------------------------------------------------------
+Task 7
+-------------------------------------------------------
+Enter paint and labour standards:
+Standard wall area (sq ft / gallon): 115
+Area painted per hour (sq ft / hour): 85
+Labour charges ($ / hour): 35
+
+Enter customer information:
+Cost of paint (1 gallon): $20
+Height of wall (ft): 8
+Width of wall (ft): 16
+
+Paint required: 2 gallons
+Hours labour required: 2 hours
+Paint cost:	$    40.00
+Labour cost:	$    70.00
+
+
+Enter paint and labour standards:
+Standard wall area (sq ft / gallon): 30
+Area painted per hour (sq ft / hour): 4
+Labour charges ($ / hour): 100
+
+Enter customer information:
+Cost of paint (1 gallon): $50
+Height of wall (ft): 20
+Width of wall (ft): 40
+
+Paint required: 27 gallons
+Hours labour required: 200 hours
+Paint cost:	$  1350.00
+Labour cost:	$ 20000.00
+
+-------------------------------------------------------

@@ -1,0 +1,15 @@
+"""
+------------------------------------------------------------------------
+Assigment 10, Task 1 - Binary Search
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-27
+------------------------------------------------------------------------
+"""
+from functions import binary_search
+
+values = [2, 5, 5, 5, 5, 5, 5, 8]
+print("Search: {} ".format(values), end='')
+search = int(input("for: "))

@@ -1,0 +1,39 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a3\com.python.pydev.analysis\v2_indexcache
+t01|1538516507314644000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t01.py
+t03|1538516507378433000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t03.py
+t02|1538516507349531000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t02.py
+t05|1538516507446975000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t05.py
+t04|1538516507411515000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t04.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+4=t01
+10=t03
+6=t02
+2=t05
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t05.py
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t04.py
+8=t04
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t02.py
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t03.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a3\src\t01.py
+-- END DICTIONARY
+-- START TREE 1
+11
+bas|1|BASE_CALL_COST!1^18#1*19@
+bon|1|bonus_points!3^12#1*35@
+bri|1|brightness!5^12#1*51@
+cal|1|call_length!1^20#1*19@
+col|2|colour2!7^13#1*67@colour1!7^12#1*67@
+cos|1|cost_of_call!1^23#1*19@
+hou|1|hour_of_call!1^21#1*19@
+num|1|num_balloons!3^11#1*35@
+pla|2|player1_choice!9^11#1*83@player2_choice!9^12#1*83@
+sec|1|secondary_colour!7^14#1*67@
+wat|1|wattage!5^11#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

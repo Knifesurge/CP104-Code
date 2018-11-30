@@ -1,0 +1,98 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l3\com.python.pydev.analysis\v2_indexcache
+t10|1538516508650066000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t10.py
+t01|1538516508303340000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t01.py
+t12|1538516508709880000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t12.py
+t11|1538516508677548000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t11.py
+t03|1538516508368643000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t03.py
+t14|1538516508767986000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t14.py
+t02|1538516508333443000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t02.py
+t13|1538516508740334000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t13.py
+t05|1538516508437981000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t05.py
+t04|1538516508402816000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t04.py
+t15|1538516508802233000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t15.py
+t07|1538516508499761000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t07.py
+t06|1538516508467455000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t06.py
+t09|1538516508595345000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t09.py
+t08|1538516508564191000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+30
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t06.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t04.py
+17=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t08.py
+23=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t12.py
+13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t10.py
+14=t10
+24=t12
+25=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t15.py
+16=t11
+10=t14
+30=t13
+26=t15
+21=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t01.py
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t05.py
+19=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t03.py
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t07.py
+27=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t09.py
+29=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t13.py
+15=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t11.py
+22=t01
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t14.py
+20=t03
+2=t02
+12=t05
+4=t04
+8=t07
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l3\src\t02.py
+6=t06
+28=t09
+18=t08
+-- END DICTIONARY
+-- START TREE 1
+40
+abs|2|abs_v1!1^14#1*19@abs_v2!1^15#1*19@
+age|1|age!3^11#1*35@
+ann|1|annual_salary!5^14#1*51@
+ave|1|average!7^17#1*67@
+clo|1|closest_value!1^19#5*19@
+dam|1|damage_scale!9^12#1*83@
+dis|1|discount_total!11^20#5*99@
+exe|1|exercise_heart_rate!3^13#1*35@
+gra|1|GRAVITY_ACCEL!13^11#1*115@
+gre|1|GREAT_AVERAGE!7^11#1*67@
+hei|1|height!15^12#10*131@
+hou|2|hourly_pay_rate!17^13#1*147@hours_worked!17^14#1*147@
+is_|1|is_teacher!11^15#1*99@
+lea|1|leap_year!19^22#13*163@
+mas|1|mass!13^13#1*115@
+max|2|max_heart_rate!3^15#1*35@MAXIMUM_WIDTH!15^11#1*131@
+mem|2|membership_cost!21^13#1*179@MEMBERSHIP_DISCOUNT!21^11#1*179@
+min|3|MINIMUM_YEARS_EMPLOYED!5^12#1*51@MIN_HOURS_FOR_OVERTIME!17^11#1*147@MINIMUM_SALARY!5^11#1*51@
+num|3|num_barrels!15^13#1*131@num_friends!21^14#1*179@number!23^11#1*195@
+ove|1|overtime_hours!17^19#5*147@
+qua|1|quadrant!25^13#1*211@
+rec|6|rect2_length!27^15#1*227@rect1_width!27^13#1*227@rect1_length!27^12#1*227@rect2_area!27^19#1*227@rect2_width!27^16#1*227@rect1_area!27^18#1*227@
+res|1|resting_heart_rate!3^12#1*35@
+ric|1|richter_number!9^11#1*83@
+rom|1|roman_numeral!23^12#1*195@
+sal|1|SALES_TAX!11^12#1*99@
+sub|1|subtotal!11^14#1*99@
+tar|1|target!1^11#1*19@
+tea|1|TEACHER_DISCOUNT!11^11#1*99@
+tes|3|test2!7^14#1*67@test3!7^15#1*67@test1!7^13#1*67@
+thr|1|thr!3^16#1*35@
+tot|6|total_teacher_discount!11^18#5*99@total!11^24#5*99@total_pay!17^16#1*147@total_cost!21^25#1*179@total_discount!21^17#5*179@total_with_tax!11^22#5*99@
+v1|1|v1!1^12#1*19@
+v2|1|v2!1^13#1*19@
+wei|1|weight!13^15#1*115@
+wid|1|width!15^12#1*131@
+win|2|wind_speed!29^13#1*243@wind_category!29^11#1*243@
+x_c|1|x_coord!25^11#1*211@
+y_c|1|y_coord!25^12#1*211@
+yea|2|year!19^17#1*163@years_employed!5^15#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

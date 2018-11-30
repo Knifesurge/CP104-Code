@@ -1,0 +1,218 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-17
+------------------------------------------------------------------------
+"""
+import csv
+def get_customer_record(file_handle, n):
+    """
+    -------------------------------------------------------
+    Find the n-th record in a comma-delimited sequential file.
+    Records are numbered starting with 0.
+    Use: result = get_customer_record(file_handle, n)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+        n - the number of the record to return (int > 0)
+    Returns:
+        result - a list of the fields of the n-th record if it exists,
+            an empty list otherwise (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+
+    result = []
+    index = 0
+    for row in reader:
+        if index == n:
+            result = row
+        index += 1
+        
+    return result
+        
+def get_customer_by_id(file_handle, id_number):
+    """
+    -------------------------------------------------------
+    Find the record for a given ID in a sequential file.
+    Use: result = get_customer_by_id(file_handle, id_number)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+        id_number - the id_number to match (str)
+    Returns:
+        result - the record with id_number if it exists,
+            an empty list otherwise (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+    result = []
+    for row in reader:
+        id = int(row[0])
+        if id_number == id:
+            result = row
+    return result
+
+def get_best_customer(file_handle):
+    """
+    -------------------------------------------------------
+    Find the customer with the largest balance. Assumes file
+    is not empty.
+    Use: result = get_best_customer(file_handle)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+    Returns:
+        result - the record with the greatest balance (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+    result = []
+    largest_balance = 0.00
+    
+    for row in reader:
+        balance = float(row[3])
+        if balance > largest_balance:
+            largest_balance = balance
+            result = row
+            
+    return result
+         
+def get_first_customer(file_handle):
+    """
+    -------------------------------------------------------
+    Find the customer with the earliest sign-up date. Assumes
+    file is not empty.
+    Use: result = get_first_customer(file_handle)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+    Returns:
+        result - the record with the earliest sign-in date (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+    result = []
+    earliest = '1900-00-00'
+    for row in reader:
+        signup_date = row[4]
+        if signup_date > earliest:
+            earliest = signup_date
+            result = row
+    return result
+
+def append_customer(file_handle, fields):
+    """
+    -------------------------------------------------------
+    Appends a customer record to a comma-delimited sequential file.
+    Use: append_customer(file_handle, fields)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to add to (file - open for appending)
+        fields - a list of the field data to append to the file (list)
+    Returns:
+       None
+    -------------------------------------------------------
+    """
+    writer = csv.writer(file_handle)
+    print(fields)
+    writer.writerow(fields)
+    return
+    
+def number_stats(file_handle):
+    """
+    -------------------------------------------------------
+    returns statistics on the numbers in a file.
+    Use: smallest, largest, total, average = number_stats(file_handle)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+    Returns:
+        smallest - smallest number (int)
+        largest - largest number (int)
+        total - sum of all the numbers in the file (int)
+        average - average of all the numbers (float)
+    ------------------------------------------------------
+    """
+    # Start reading at beginning of file
+    file_handle.seek(0)
+    file_contents = file_handle.readlines()
+    smallest = int(file_contents[0])
+    largest = int(file_contents[0])
+    total = 0
+    count = 0
+    for number in file_contents:
+        num = int(number)
+        if num < smallest:
+            smallest = num
+        if num > largest:
+            largest = num
+        total += num
+        count += 1
+        
+    average = total / count
+    return smallest, largest, total, average
+
+def append_max_num(file_handle):
+    """
+    -------------------------------------------------------
+    Appends a number to the end of file_handle. The number appended
+    is the maximum of all the numbers currently in the file.
+    Use: num = append_max_num(file_handle)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading/writing)
+    Returns:
+        num - the number appended to the file (int)
+    ------------------------------------------------------
+    """
+    # Start at beginning of file
+    file_handle.seek(0)
+    file_contents = file_handle.readlines()
+    largest = int(file_contents[0])
+    
+    for number in file_contents:
+        num = int(number)
+        if num > largest:
+            largest = num
+            
+    file_handle.write(str(largest))
+    return largest
+
+def append_increment(file_handle):
+    """
+    -------------------------------------------------------
+    Appends a number to the end of the file_handle. The number appended
+    is the last number in the file plus 1.
+    Use: num = append_increment(file_handle)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading/writing)
+    Returns:
+        num - the number appended to the file (int)
+    ------------------------------------------------------
+    """
+    file_handle.seek(0)
+    file_contents = file_handle.readlines()
+    num = int(file_contents[-1]) + 1
+    file_handle.write(str(num))
+    return num
+
+def count_frequency_value(file_handle, value):
+    """
+    -------------------------------------------------------
+    Counts the number of appearances of value in file_handle.
+    Use: count = count_frequency_value(file_handle, value)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+        value - the value to count (int)
+    Returns:
+        count - the number of appearance of value in file_handle (int)
+    ------------------------------------------------------
+    """
+    file_handle.seek(0)

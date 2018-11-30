@@ -1,0 +1,62 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a10\com.python.pydev.analysis\v2_indexcache
+functions|1543552242092596000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\functions.py
+t01|1543552473955613000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t01.py
+cereal_data|1543328458854602000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\cereal_data.py
+t03|1543326602420037000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t03.py
+t02|1543326974030460000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t02.py
+t05|1543532096355774000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t05.py
+t04|1543327606337694000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t04.py
+t06|1543551494162455000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+4=functions
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\functions.py
+8=cereal_data
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t06.py
+13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t01.py
+14=t01
+2=t03
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t05.py
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t02.py
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t03.py
+12=t02
+15=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\t04.py
+6=t05
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a10\src\cereal_data.py
+16=t04
+10=t06
+-- END DICTIONARY
+-- START TREE 1
+25
+a|1|a!1^13#1*19@
+b|1|b!1^14#1*19@
+bin|1|binary_search!3^70#5*34@
+c|1|c!1^21#1*19@
+cer|4|cereal_stats_table!3^336#5*34@cereals_by_value!3^250#5*34@cereal_stats!3^281#5*34@cereals!5^14#1*51@
+col|3|columns!5^25#1*51@COLUMNS!7^42#1*67@column!5^17#1*51@
+dat|1|data!5^27#1*51@
+fh|1|fh!5^13#1*51@
+fh_|2|fh_out!9^14#1*83@fh_in!9^13#1*83@
+fla|2|flattened!11^19#1*99@flatten!3^104#5*34@
+gra|1|grayscale!3^383#5*34@
+ind|1|index!13^22#1*115@
+mat|3|matrix_multiply!3^123#5*34@matrix_transpose!3^46#5*34@matrix!11^15#1*99@
+mfr|1|MFRS!7^15#1*67@
+pig|1|pig_latin!3^151#5*34@
+pl|1|pl!15^15#5*131@
+pri|1|print_matrix_num!3^17#5*34@
+rea|1|read_cereals!3^206#5*34@
+sea|1|search!13^20#1*115@
+she|1|SHELF!7^19#1*67@
+som|1|some_cereals!5^20#1*51@
+to_|1|to_gray!3^360#5*34@
+typ|1|TYPE!7^17#1*67@
+val|3|values!13^14#1*115@VALUES_LENGTH!13^15#1*115@value!5^18#1*51@
+wor|1|word!15^14#5*131@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

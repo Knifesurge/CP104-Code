@@ -1,0 +1,23 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l1\com.python.pydev.analysis\v2_indexcache
+t4|1538516507803736000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l1\src\t4.py
+t6|1538516507832765000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l1\src\t6.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+4=t4
+2=t6
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l1\src\t6.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l1\src\t4.py
+-- END DICTIONARY
+-- START TREE 1
+4
+bon|1|bonus!1^14#1*19@
+nam|1|name!3^11#1*35@
+pay|1|pay!1^15#1*19@
+sal|1|salary!1^13#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

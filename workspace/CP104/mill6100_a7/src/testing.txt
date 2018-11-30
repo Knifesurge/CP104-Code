@@ -1,0 +1,115 @@
+
+-------------------------------------------------------
+Assignment 7 Testing
+-------------------------------------------------------
+Author  Nicolas Mills
+ID      180856100
+Email   mill56100@mylaurier.ca
+Version 2018-11-15
+-------------------------------------------------------
+
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Enter a string to test: 123456
+The string is all digits
+
+Enter a string to test: 123a45
+The string contains non-digits
+
+Enter a string to test: 1 2 3
+The string contains non-digits
+
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+Enter a string to test: abcdefg
+The string is all letters
+
+Enter a string to test: abc123
+The string contains non-letters
+
+Enter a string to test: hello world
+The string contains non-letters
+
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+String to search: Grimer
+String to search for: rim
+'rim' is found at location 1 in 'Grimer'
+
+String to search: California
+String to search for: forn
+'forn' is found at location 4 in 'California'
+
+String to search: No Z Here!
+String to search for: n
+'n' is found at location -1 in 'No Z Here!'
+
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+First string: running
+Second string: jogging
+Common ending: ing
+
+First string: abcdefg
+Second string: hygeuiijjhefg
+Common ending: efg
+
+First string: nocommonending
+Second string: haha
+Common ending: 
+
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+Enter an ISBN to test: 978-3-16-123456-2
+ISBN 978-3-16-123456-2 is valid
+
+Enter an ISBN to test: 978-3-16-12345-2
+ISBN 978-3-16-12345-2 is NOT valid
+
+Enter an ISBN to test: 978-3234-123456-2
+ISBN 978-3234-123456-2 is NOT valid
+
+Enter an ISBN to test: 978-3-16-1234-0-2
+ISBN 978-3-16-1234-0-2 is NOT valid
+
+Enter an ISBN to test: 974-3-16-123430-2
+ISBN 974-3-16-1234-0-2 is NOT valid
+
+Enter an ISBN to test: 974-3-16-1234-24
+ISBN 974-3-16-1234-24 is NOT valid
+
+Enter an ISBN to test: 974-3--123444-2-0
+ISBN 974-3--1234-24 is NOT valid
+
+Enter an ISBN to test: 974-3-123444--2-0
+ISBN 974-3-123444--2-0 is NOT valid
+
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+Enter phone number: 1-800-GOT-JUNK
+Digits: 1-800-468-5865
+
+Enter phone number: 514-AUTOBUS
+Digits: 514-2886287
+
+Enter phone number: 519-GRT-STOP
+Digits: 519-478-7867
+
+-------------------------------------------------------
+Task 7
+-------------------------------------------------------
+Enter a string: Toy
+Plural: Toys
+
+Enter a string: Bus
+Plural: Buses
+
+Enter a string: Peony
+Plural: Peonies
+

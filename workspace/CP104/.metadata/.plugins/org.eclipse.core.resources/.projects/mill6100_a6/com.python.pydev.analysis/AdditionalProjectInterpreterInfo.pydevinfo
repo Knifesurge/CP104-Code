@@ -1,0 +1,63 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a6\com.python.pydev.analysis\v2_indexcache
+t01|1541263927840677000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t01.py
+functions|1541469983977260000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\functions.py
+t03|1541470259325746000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t03.py
+t02|1541470164326502000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t02.py
+t05|1541470701500322000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t05.py
+t04|1541470421711205000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t04.py
+t06|1541470795310163000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+8=functions
+2=t01
+6=t03
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\functions.py
+12=t02
+14=t05
+4=t04
+10=t06
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t02.py
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t01.py
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t03.py
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t06.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t04.py
+13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a6\src\t05.py
+-- END DICTIONARY
+-- START TREE 1
+29
+are|0|
+bri|1|brightness!1^15#1*19@
+cos|0|
+den|2|den2!3^16#1*35@den1!3^14#1*35@
+dim|1|dimes!5^14#1*51@
+fra|1|fraction_product!7^83#5*66@
+get|2|get_brightness!7^15#5*66@get_total_change!7^59#5*66@
+hei|0|
+hou|1|hours_required!7^181#5*66@
+ini|1|initial_seconds!9^13#1*83@
+int|1|interest!11^14#1*99@
+lab|0|
+loo|1|loonies!5^16#1*51@
+mon|1|months!11^15#1*99@
+nic|1|nickels!5^13#1*51@
+num|2|num2!3^15#1*35@num1!3^13#1*35@
+pai|2|paint_cost!7^197#5*66@paint_required!7^165#5*66@
+pay|1|payment!7^42#5*66@
+pri|1|principal!11^13#1*99@
+qua|1|quarters!5^15#1*51@
+req|0|
+sec|4|SECONDS_IN_HOUR!7^12#1*67@seconds!13^13#1*115@SECONDS_IN_MINUTE!7^11#1*67@SECONDS_IN_DAY!7^13#1*67@
+sta|0|
+tim|2|time_split!7^127#5*66@time_values!7^106#5*66@
+too|1|toonies!5^17#1*51@
+tot|2|total!5^19#1*51@total!11^17#1*99@
+wal|1|wall_area!7^150#5*66@
+wat|1|wattage!1^13#1*19@
+wid|0|
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

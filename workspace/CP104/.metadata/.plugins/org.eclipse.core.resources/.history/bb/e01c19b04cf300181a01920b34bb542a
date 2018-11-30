@@ -1,0 +1,15 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-28
+------------------------------------------------------------------------
+"""
+alphabet = "abcdefghijklmnopqrstuvwxyz"
+vignereTable = [[char for char in alphabet] for char2 in alphabet]
+for line in vignereTable:
+    print(line)
+    

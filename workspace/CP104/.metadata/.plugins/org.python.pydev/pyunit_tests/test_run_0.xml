@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?pydev-testrun version="1.0"?><pydev-testsuite>
+<summary errors="1" failures="0" finished="true" name="Test Run: 0" tests="0" total_time="null"/>
+<test location="C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a5\src\t01.py" status="error" test="t01" time="0">
+<stdout/>
+<stderr><![CDATA[Traceback (most recent call last):
+  File "C:\Users\USER 1\.p2\pool\plugins\org.python.pydev.core_6.5.0.201809011628\pysrc\_pydev_runfiles\pydev_runfiles.py", line 468, in __get_module_from_str
+    mod = __import__(modname)
+  File "C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a5\src\t01.py", line 14, in <module>
+    start = int(input("Start: "))
+  File "C:\Users\USER 1\.p2\pool\plugins\org.python.pydev.core_6.5.0.201809011628\pysrc\pydev_sitecustomize\sitecustomize.py", line 199, in input
+    ret = original_input(prompt)
+EOFError: EOF when reading a line
+ERROR: Module: t01 could not be imported (file: C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a5\src\t01.py).
+]]></stderr>
+</test>
+<launch mode="run">
+<launch_memento><![CDATA[<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration local="true" path="mill6100_a5 t01.py"/>
+]]></launch_memento>
+</launch>
+</pydev-testsuite>

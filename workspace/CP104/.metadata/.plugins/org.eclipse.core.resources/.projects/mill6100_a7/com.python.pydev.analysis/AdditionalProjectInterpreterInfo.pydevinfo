@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a7\com.python.pydev.analysis\v2_indexcache
+functions|1542354901636123000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\functions.py
+t01|1542231461780403000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t01.py
+t03|1542353177408645000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t03.py
+t02|1542231634750352000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t02.py
+t05|1542355273459427000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t05.py
+t04|1542241117313941000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t04.py
+t07|1542352033930345000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t07.py
+t06|1542261188159604000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\functions.py
+8=functions
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t04.py
+15=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t07.py
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t06.py
+13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t05.py
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t03.py
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t02.py
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a7\src\t01.py
+2=t01
+12=t03
+4=t02
+14=t05
+6=t04
+16=t07
+10=t06
+-- END DICTIONARY
+-- START TREE 1
+15
+all|2|all_digits!1^15#1*19@all_alpha!3^15#1*35@
+com|2|common!5^16#1*51@common_ending!7^99#5*66@
+con|1|converted!9^15#1*83@
+ind|1|index!11^16#1*99@
+is_|1|is_valid_isbn!7^129#5*66@
+isb|1|isbn!13^12#1*115@
+my_|3|my_isdigit!7^11#5*66@my_isalpha!7^36#5*66@my_find!7^62#5*66@
+num|2|number!9^13#1*83@number_convert!7^169#5*66@
+plu|2|plural!15^15#1*131@pluralize!7^210#5*66@
+s1|1|s1!5^13#1*51@
+s2|1|s2!5^14#1*51@
+sea|1|search_for!11^14#1*99@
+str|2|string!15^13#1*131@string!11^13#1*99@
+tes|2|test_string!1^13#1*19@test_string!3^13#1*35@
+val|1|valid_isbn!13^14#1*115@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

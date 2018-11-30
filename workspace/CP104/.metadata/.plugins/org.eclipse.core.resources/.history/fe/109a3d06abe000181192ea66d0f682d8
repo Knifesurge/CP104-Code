@@ -1,0 +1,24 @@
+"""
+------------------------------------------------------------------------
+Module to hold all functions used in task modules
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-04
+------------------------------------------------------------------------
+"""
+def is_hydroxide(chemical):
+    """
+    -------------------------------------------------------
+    Determines if a chemical formula is a hydroxide.
+    Use: hydroxide = is_hydroxide(chemical)
+    -------------------------------------------------------
+    Preconditions:
+        chemical - a chemical formula (str)
+    Postconditions:
+        hydroxide - True if chemical is a hydroxide (ends in 'OH'),
+            False otherwise (boolean)
+    -------------------------------------------------------
+    """
+    return chemical.endswith("OH")

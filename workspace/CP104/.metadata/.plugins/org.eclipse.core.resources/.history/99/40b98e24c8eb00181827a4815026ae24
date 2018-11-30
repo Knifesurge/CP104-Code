@@ -1,0 +1,100 @@
+"""
+------------------------------------------------------------------------
+[program description]
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-17
+------------------------------------------------------------------------
+"""
+import csv
+def get_customer_record(file_handle, n):
+    """
+    -------------------------------------------------------
+    Find the n-th record in a comma-delimited sequential file.
+    Records are numbered starting with 0.
+    Use: result = get_customer_record(file_handle, n)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+        n - the number of the record to return (int > 0)
+    Returns:
+        result - a list of the fields of the n-th record if it exists,
+            an empty list otherwise (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+
+    result = []
+    index = 0
+    for row in reader:
+        if index == n:
+            result = row
+        index += 1
+        
+    return result
+        
+def get_customer_by_id(file_handle, id_number):
+    """
+    -------------------------------------------------------
+    Find the record for a given ID in a sequential file.
+    Use: result = get_customer_by_id(file_handle, id_number)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+        id_number - the id_number to match (str)
+    Returns:
+        result - the record with id_number if it exists,
+            an empty list otherwise (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+    result = []
+    for row in reader:
+        id = int(row[0])
+        if id_number == id:
+            result = row
+    return result
+
+def get_best_customer(file_handle):
+    """
+    -------------------------------------------------------
+    Find the customer with the largest balance. Assumes file
+    is not empty.
+    Use: result = get_best_customer(file_handle)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+    Returns:
+        result - the record with the greatest balance (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+    result = []
+    largest_balance = float(list(reader)[0][3])
+    print(largest_balance)
+    
+    for row in reader:
+        balance = float(row[3])
+        if balance > largest_balance:
+            largest_balance = balance
+            result = row
+            
+    return result
+         
+def get_first_customer(file_handle):
+    """
+    -------------------------------------------------------
+    Find the customer with the earliest sign-up date. Assumes
+    file is not empty.
+    Use: result = get_first_customer(file_handle)
+    -------------------------------------------------------
+    Parameters:
+        file_handle - file to search (file - open for reading)
+    Returns:
+        result - the record with the earliest sign-in date (list)
+    -------------------------------------------------------
+    """
+    reader = csv.reader(file_handle, delimiter=',')
+    

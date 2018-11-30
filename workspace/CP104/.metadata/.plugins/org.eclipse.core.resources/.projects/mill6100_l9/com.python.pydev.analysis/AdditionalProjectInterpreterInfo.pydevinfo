@@ -1,0 +1,81 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l9\com.python.pydev.analysis\v2_indexcache
+functions|1542659827812321000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\functions.py
+t10|1542618856853830000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t10.py
+t01|1542611544624380000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t01.py
+t12|1542619704840984000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t12.py
+t11|1542619584213116000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t11.py
+t03|1542611574742678000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t03.py
+t14|1542620266047906000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t14.py
+t02|1542657506316534000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t02.py
+t13|1542660263079617000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t13.py
+t05|1542612391339730000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t05.py
+t04|1542611589233640000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t04.py
+t15|1542620258618960000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t15.py
+t07|1542616938275926000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t07.py
+t06|1542612808463414000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t06.py
+t09|1542617837846021000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t09.py
+t08|1542617817628258000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t08.py
+-- END DISKCACHE
+-- START DICTIONARY
+32
+2=functions
+31=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t12.py
+15=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t14.py
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t10.py
+19=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t06.py
+8=t10
+23=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t08.py
+32=t12
+26=t11
+16=t14
+28=t13
+14=t15
+17=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t04.py
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t02.py
+27=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t13.py
+13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t15.py
+25=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t11.py
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t05.py
+21=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t07.py
+30=t01
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\functions.py
+4=t03
+10=t02
+12=t05
+18=t04
+22=t07
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t09.py
+20=t06
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t03.py
+6=t09
+24=t08
+29=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l9\src\t01.py
+-- END DICTIONARY
+-- START TREE 1
+20
+app|3|append_customer!1^116#5*18@append_increment!1^193#5*18@append_max_num!1^167#5*18@
+bes|1|best_customer!3^16#1*35@
+cou|4|count!5^16#1*51@count_frequency_word!1^234#5*18@count!7^16#1*67@count_frequency_value!1^212#5*18@
+cus|2|customer_id!9^15#1*83@customer!9^18#1*83@
+dat|1|data!11^13#1*99@
+del|1|delete_line!1^301#5*18@
+fil|19|file_handle_1!13^13#1*115@file_handle!3^15#1*35@file_handle_1!15^13#1*131@file_handle_2!15^14#1*131@file_handle!17^15#1*147@file_handle!19^13#1*163@file_copy!1^325#5*18@file_handle_2!13^14#1*115@file_handle!11^14#1*99@file_handle!21^13#1*179@file_handle!23^13#1*195@file_handle!7^13#1*67@file_handle!5^13#1*51@file_copy_n!1^347#5*18@file_handle!25^13#1*211@file_handle!9^17#1*83@file_handle!27^13#1*227@file_handle!29^17#1*243@file_handle!31^13#1*259@
+fin|2|find_longest!1^257#5*18@find_shortest!1^279#5*18@
+fir|1|first_customer!17^16#1*147@
+get|4|get_customer_by_id!1^40#5*18@get_customer_record!1^12#5*18@get_best_customer!1^65#5*18@get_first_customer!1^92#5*18@
+lin|1|line_num!27^15#1*227@
+lon|1|longest!25^15#1*211@
+max|1|max_num!21^15#1*179@
+n|1|n!13^16#1*115@
+num|2|number_stats!1^133#5*18@num!23^15#1*195@
+rec|2|record!29^18#1*243@record_number!29^15#1*243@
+rem|1|removed!27^16#1*227@
+sho|1|shortest!31^15#1*259@
+val|1|value!5^15#1*51@
+wor|1|word!7^15#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

@@ -1,0 +1,22 @@
+"""
+------------------------------------------------------------------------
+Assignment 10, Task 6 - Grayscale
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-29
+------------------------------------------------------------------------
+"""
+from functions import to_gray, grayscale
+
+fh = open("stupidColour.bmp", "rb")
+
+# Read the 10th to 13th bytes of the header to get size
+fh.seek(10)
+# Read the next 3 bytes
+bytes_read = fh.read(3)
+# Size of header
+size = int.from_bytes(bytes_read, byteorder="little")
+# Jump to first byte after the header
+fh.seek(size)

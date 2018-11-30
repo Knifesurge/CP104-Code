@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_2
+C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_a8\com.python.pydev.analysis\v2_indexcache
+functions|1542923964199487000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\functions.py
+t01|1542764263673117000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t01.py
+t03|1542772942554778000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t03.py
+t02|1542765383750361000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t02.py
+t05|1542923533159758000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t05.py
+t04|1542923476939046000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t04.py
+t07|1542760755957672000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t07.py
+t06|1542902358144106000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t06.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t01.py
+15=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t02.py
+4=functions
+3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\functions.py
+6=t01
+10=t03
+16=t02
+8=t05
+12=t04
+14=t07
+2=t06
+9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t03.py
+11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t04.py
+7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t05.py
+1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t06.py
+13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_a8\src\t07.py
+-- END DICTIONARY
+-- START TREE 1
+15
+acc|1|accidents!1^15#1*19@
+bag|2|bag_to_set!3^13#5*34@bag!5^14#1*51@
+cat|1|categorize_accidents!3^159#5*34@
+cit|1|city_accident_counts!1^13#1*19@
+cle|1|clean_list!3^36#5*34@
+cor|1|correct_answers!7^15#1*67@
+lic|1|license_test!3^125#5*34@
+num|1|num_to_text!3^192#5*34@
+set|2|set_trials!3^93#5*34@set!5^19#1*51@
+str|1|string!9^13#1*83@
+stu|1|student_answers!7^16#1*67@
+sub|2|subsets!9^15#1*83@subjects!11^13#1*99@
+tex|1|text!13^24#5*115@
+two|1|two_element_subset!3^65#5*34@
+val|1|values!15^14#1*131@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

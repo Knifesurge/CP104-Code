@@ -1,0 +1,20 @@
+"""
+------------------------------------------------------------------------
+Lab 10, Task 15
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-26
+------------------------------------------------------------------------
+"""
+from functions import matrix_transpose, generate_matrix_num, print_matrix_num
+
+rows = 4
+cols = 3
+low = -10
+high = 10
+
+matrix = generate_matrix_num(rows, cols, low, high, "int")
+
+print_matrix_num(matrix, "int")
