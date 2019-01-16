@@ -1,68 +1,82 @@
 -- VERSION_5
 -- START DISKCACHE_2
-C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l7\com.python.pydev.analysis\v2_indexcache
-t10|1541444036288788000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t10.py
-t01|1541441605482113000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t01.py
-t12|1541444973897795000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t12.py
-t11|1541444150200391000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t11.py
-t03|1541441798042032000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t03.py
-t02|1541441676957853000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t02.py
-t13|1541445194987277000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t13.py
-t05|1541442448760313000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t05.py
-t04|1541442026128909000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t04.py
-t07|1541443731807739000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t07.py
-t06|1541442863975150000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t06.py
-t09|1541443918240731000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t09.py
-t08|1541443823019279000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t08.py
+C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l7\com.python.pydev.analysis\v2_indexcache
+functions|1541448331946939000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\functions.py
+t10|1541444036288788000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t10.py
+t01|1541441605482113000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t01.py
+t12|1541444973897795000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t12.py
+t11|1541444150200391000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t11.py
+t03|1541441798042032000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t03.py
+t14|1541447191329275000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t14.py
+t02|1541441676957853000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t02.py
+t13|1541445194987277000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t13.py
+t05|1541442448760313000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t05.py
+t04|1541442026128909000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t04.py
+t15|1541447369963480000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t15.py
+t07|1541443731807739000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t07.py
+t06|1541442863975150000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t06.py
+t09|1541443918240731000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t09.py
+t08|1541443823019279000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t08.py
 -- END DISKCACHE
 -- START DICTIONARY
-24
-3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t11.py
-7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t09.py
-21=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t10.py
-5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t08.py
-19=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t12.py
-22=t10
-15=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t07.py
-2=t01
-20=t12
-4=t11
-14=t03
-24=t02
-10=t05
-11=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t04.py
-12=t04
-13=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t03.py
-9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t05.py
-16=t07
-17=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t06.py
-18=t06
-1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t01.py
-8=t09
-6=t08
-23=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l7\src\t02.py
+30
+11=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t08.py
+2=functions
+27=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t10.py
+25=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t12.py
+5=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t14.py
+28=t10
+26=t12
+8=t11
+6=t14
+10=t15
+29=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t02.py
+23=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t06.py
+17=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t04.py
+21=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t07.py
+7=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t11.py
+9=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t15.py
+1=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\functions.py
+4=t01
+20=t03
+30=t02
+16=t05
+3=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t01.py
+18=t04
+22=t07
+24=t06
+14=t09
+12=t08
+13=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t09.py
+19=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t03.py
+15=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l7\src\t05.py
 -- END DICTIONARY
 -- START TREE 1
-19
-che|1|chemical!1^13#1*19@
-com|0|
-cou|0|
-dig|0|
-dis|1|disemvowelled!3^15#1*35@
-dsm|0|
-is_|0|
-num|2|num_digits!5^15#1*51@num_spec_chars!7^15#1*67@
-par|0|
-pas|1|password!9^13#1*83@
-pro|2|product_code!11^13#1*99@product_code!13^13#1*115@
-str|5|string!5^13#1*51@string!15^13#1*131@string!7^13#1*67@string!3^13#1*35@string!17^13#1*147@
-tex|1|text!19^13#1*163@
-tot|0|
-txt|1|txt!21^13#1*179@
-typ|1|type!23^15#1*195@
-url|1|url!23^13#1*195@
-val|0|
-vow|1|vowels!15^15#1*131@
+24
+cal|1|calculate!1^350#5*18@
+che|1|chemical!3^13#1*35@
+com|1|comma_period_replace!1^280#5*18@
+cou|1|count_special_chars!1^204#5*18@
+dig|1|digit_count!1^185#5*18@
+dis|2|distance!5^16#1*51@disemvowelled!7^15#1*67@
+dsm|1|dsmvwl!1^260#5*18@
+exp|1|expr!9^13#1*83@
+is_|2|is_palindrome!1^146#5*18@is_hydroxide!1^11#5*18@
+num|2|num_digits!11^15#1*99@num_spec_chars!13^15#1*115@
+par|1|parse_code!1^49#5*18@
+pas|2|password!15^13#1*131@password_strength!1^113#5*18@
+pro|2|product_code!17^13#1*147@product_code!19^13#1*163@
+res|1|result!9^15#1*83@
+s1|1|s1!5^13#1*51@
+s2|1|s2!5^14#1*51@
+str|6|string!11^13#1*99@string!21^13#1*179@str_distance!1^319#5*18@string!13^13#1*115@string!7^13#1*67@string!23^13#1*195@
+tex|2|text_analyze!1^227#5*18@text!25^13#1*211@
+tot|1|total_digits!1^299#5*18@
+txt|1|txt!27^13#1*227@
+typ|1|type!29^15#1*243@
+url|2|url_categorize!1^26#5*18@url!29^13#1*243@
+val|1|validate_code!1^71#5*18@
+vow|2|vowels!21^15#1*179@vowel_count!1^161#5*18@
 -- END TREE
 -- START TREE 2
 0

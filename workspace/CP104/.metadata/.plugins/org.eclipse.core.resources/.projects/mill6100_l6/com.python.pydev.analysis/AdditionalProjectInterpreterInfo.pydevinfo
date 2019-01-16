@@ -1,43 +1,47 @@
 -- VERSION_5
 -- START DISKCACHE_2
-C:\Users\USER 1\Documents\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l6\com.python.pydev.analysis\v2_indexcache
-functions|1540842332613506000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\functions.py
-t03|1540841868862992000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t03.py
-t13|1540842603671676000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t13.py
-t07|1540842263345407000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t07.py
-t09|1540842579394376000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t09.py
-t08|1540842258909595000|C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t08.py
+C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\.metadata\.plugins\org.eclipse.core.resources\.projects\mill6100_l6\com.python.pydev.analysis\v2_indexcache
+functions|1540842332613506000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\functions.py
+t03|1540841868862992000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t03.py
+t13|1540842830741102000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t13.py
+t07|1540842263345407000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t07.py
+t09|1540842579394376000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t09.py
+t08|1540842258909595000|C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t08.py
 -- END DISKCACHE
 -- START DICTIONARY
-10
+12
+7=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t09.py
+9=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t08.py
 4=functions
-3=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\functions.py
-5=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t09.py
-7=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t08.py
-10=t03
-1=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t07.py
+12=t03
+6=t13
 2=t07
-6=t09
-9=C:\Users\USER 1\Documents\CP104\workspace\CP104\mill6100_l6\src\t03.py
-8=t08
+3=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\functions.py
+5=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t13.py
+8=t09
+1=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t07.py
+10=t08
+11=C:\Users\USER 1\Documents\Laurier\CP104\workspace\CP104\mill6100_l6\src\t03.py
 -- END DICTIONARY
 -- START TREE 1
-15
+17
 are|2|area!1^17#1*19@area!3^99#5*34@
+bas|1|base!5^13#1*51@
 cir|2|circumference!3^85#5*34@circumference!1^16#1*19@
 dia|2|diameter!3^71#5*34@diameter!1^15#1*19@
-div|1|divisible!5^17#1*51@
-fir|1|first_val!5^14#1*51@
+div|1|divisible!7^17#1*67@
+fir|1|first_val!7^14#1*67@
+hei|1|height!5^14#1*51@
 is_|2|is_leap!3^116#5*34@is_divisible!3^149#5*34@
-lea|1|leap!7^15#1*67@
-n|1|n!9^13#1*83@
-num|1|number_to_check!5^13#1*51@
+lea|1|leap!9^15#1*83@
+n|1|n!11^13#1*99@
+num|1|number_to_check!7^13#1*67@
 rad|1|radius!1^13#1*19@
-sec|1|second_val!5^15#1*51@
+sec|1|second_val!7^15#1*67@
 squ|1|square_pyramid!3^172#5*34@
 sum|3|sum_even!3^13#5*34@sum_odd!3^31#5*34@sum_partial_harmonic!3^49#5*34@
-tot|1|total!9^15#1*83@
-yea|1|year!7^13#1*67@
+tot|1|total!11^15#1*99@
+yea|1|year!9^13#1*83@
 -- END TREE
 -- START TREE 2
 0

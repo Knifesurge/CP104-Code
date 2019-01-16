@@ -1,9 +1,0 @@
-matrix = [[0 for col in range(cols)] for row in range(rows)]
-
-matrix = [[]]
-col = []
-
-for i in range(len(matrix)):
-	for j in range(len(matrix[i])):
-		col.append(j)
-	matrix[i].extend(col)
