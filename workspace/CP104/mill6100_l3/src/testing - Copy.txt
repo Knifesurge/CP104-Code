@@ -1,0 +1,122 @@
+
+-------------------------------------------------------
+Lab 3  Testing
+-------------------------------------------------------
+Author  Nicolas Mills
+ID      180856100
+Email   mill6100@mylaurier.ca
+Version 2018-09-24
+-------------------------------------------------------
+
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Gym membership cost: $50
+Number of friends signed up: 3
+Your membership cost is $42.50
+
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+Enter target: 50
+Enter v1: 254
+Enter v2: 1
+Closest value to 50.0 is 1.0
+
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+Enter a year (>0): 1900
+1900 is not a leap year
+
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+Enter your age: 19
+Enter your resting heart rate: 90
+Enter your heart rate during exercise: 120
+Your training heart rate is 156
+
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+Total purchase: $120.00
+Is the customer a teacher (Y/N)? Y
+Teacher's discount (10%): $12.00
+Discounted total:         $108.00
+Sales tax:                $5.40
+Total:                    $113.40
+
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+Annual salary: 120000
+Years employed: 1
+You must have been employed for at least 2 years to qualify for a loan
+
+-------------------------------------------------------
+Task 7
+-------------------------------------------------------
+Grade for test 1: 100
+Grade for test 2: 90
+Grade for test 3: 97
+The average: 95
+Congratulations, great average!
+
+-------------------------------------------------------
+Task 8
+-------------------------------------------------------
+Hourly pay rate: $14.25
+Hours worked: 50
+This week's pay is: $926.25
+
+-------------------------------------------------------
+Task 9
+-------------------------------------------------------
+For rectangle 1:
+Length of rectangle (cm): 50
+Width of rectangle (cm): 2
+For rectangle 2:
+Length of rectangle (cm): 4
+Width of rectangle (cm): 120
+Area of rectangle 1: 100.0 cm^2
+Area of rectangle 2: 480.0 cm^2
+Area of rectangle 1 is less than area of rectangle2.
+
+-------------------------------------------------------
+Task 10
+-------------------------------------------------------
+Enter mass (kg): 120
+Weight: 1176.0 N
+Object is too heavy.
+
+-------------------------------------------------------
+Task 11
+-------------------------------------------------------
+Number of barrels to bury: 200
+The size of the pit is 2 barrel(s) by 100 barrel(s).
+
+-------------------------------------------------------
+Task 12
+-------------------------------------------------------
+Enter a number from 1 to 10: 4
+The roman numeral equivalent of 4 is IV
+
+-------------------------------------------------------
+Task 13
+-------------------------------------------------------
+Wind speed (km/h): 20
+Characterization: Breeze
+
+-------------------------------------------------------
+Task 14
+-------------------------------------------------------
+Richter Scale Number: 9
+Catastrophe: Most buildings destroyed
+
+-------------------------------------------------------
+Task 15
+-------------------------------------------------------
+Enter the x coordinate: 20
+Enter the y coordinate: -2
+(20.00,-2.00) is in/on the quadrant 4

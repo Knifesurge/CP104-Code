@@ -1,0 +1,125 @@
+
+-------------------------------------------------------
+Assignment 4 Testing
+-------------------------------------------------------
+Author  Nicolas Mills
+ID      180856100
+Email   mill6100@mylaurier.ca
+Version 2018-09-29
+-------------------------------------------------------
+
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Temperature C (-500 to stop): 50
+Temperature C (-500 to stop): 17
+Temperature C (-500 to stop): 18
+Temperature C (-500 to stop): 27
+Temperature C (-500 to stop): 28
+Temperature C (-500 to stop): 5
+Temperature C (-500 to stop): -1
+Temperature C (-500 to stop): 0
+Temperature C (-500 to stop): -500
+
+Cold days:        4
+Pleasant days:    1
+Hot days:         2
+Average:          16.00 C
+
+
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+Current Population: 10000
+Growth Rate (%): 10
+Target Population: 20000
+It will take 8 year(s) to reach the target population.
+
+Current Population: 2
+Growth Rate (%): 1000
+Target Population: 20000
+It will take 4 year(s) to reach the target population.
+
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+Mom's limit on the number of candies: 120
+Candies from the first household: 50
+Candies from the next household: 2
+Candies from the next household: 4
+Candies from the next household: 5
+Candies from the next household: 6
+Candies from the next household: 8
+Candies from the next household: 60
+
+You have acquired 135 candies in total
+You have 15 candies over Mom's limit.
+
+Mom's limit on the number of candies: 100
+Candies from the first household: 50
+Candies from the next household: 40
+Candies from the next household: 10
+
+You have acquired 100 candies in total
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+Party budget: $100
+Cost of item: $40
+Buy another item (Y/N): Y
+Cost of item: $2
+Buy another item (Y/N): N
+Have not yet spent the minimum amount: $90.00
+Cost of item: $50
+Buy another item (Y/N): N
+Item costs too much: $8.00 remaining in budget
+Total spent on items: $92.00
+
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+Purchase a ticket (Y/N)? Y
+How old are you? 2
+You get in for free.
+Purchase another ticket (Y/N)? Y
+How old are you? 5
+That ticket costs $2.00
+Purchase another ticket (Y/N)? Y
+How old are you? 11
+Are you a student at this school? (Y/N) Y
+That ticket costs $1.00
+Purchase another ticket (Y/N)? Y
+How old are you? 13
+Are you a student at this school? (Y/N) N
+That ticket costs $2.00
+Purchase another ticket (Y/N)? Y
+How old are you? 66
+That ticket costs $4.00
+Purchase another ticket (Y/N)? N
+Total tickets price: $9.00
+
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+  994
++ 603
+= 1507
+Sorry, the correct answer is 1597
+
+Continue (Y/N): Y
+  337
++  97
+= 434
+Congratulations!
+
+Continue (Y/N): Y
+  674
++ 683
+= 1358
+Sorry, the correct answer is 1357
+
+Continue (Y/N): N
+
+Your final score is 1/3
+
+-------------------------------------------------------

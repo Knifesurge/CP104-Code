@@ -1,0 +1,19 @@
+"""
+------------------------------------------------------------------------
+Lab 9, Task 9
+------------------------------------------------------------------------
+Author: Nicolas Mills
+ID:     180856100
+Email:  mill6100@mylaurier.ca
+__updated__ = 2018-11-19
+------------------------------------------------------------------------
+"""
+from functions import count_frequency_value
+
+file_handle = open('numbers.txt', 'r')
+print("file 'numbers.txt' open for reading")
+value = int(input("Value to count: "))
+count = count_frequency_value(file_handle, value)
+file_handle.close()
+
+print("{} appears {} time(s)".format(value, count))

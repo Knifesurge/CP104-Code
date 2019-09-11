@@ -1,0 +1,313 @@
+
+-------------------------------------------------------
+Lab 4  Testing
+-------------------------------------------------------
+Author  Nicolas Mills
+ID      180856100
+Email   mill6100@mylaurier.ca
+Version 2018-09-27
+-------------------------------------------------------
+
+-------------------------------------------------------
+Task 1
+-------------------------------------------------------
+Guess: 50
+Too high, try again.
+Guess: 25
+Too low, try again
+Guess: 42
+Too high, try again.
+Guess: 35
+Too low, try again
+Guess: 40
+Too high, try again.
+Guess: 38
+Too low, try again
+Guess: 39
+Congratulations - good guess!
+-------------------------------------------------------
+Task 2
+-------------------------------------------------------
+
+For Day 1
+
+How much was breakfast? $11.95
+How much was lunch? $23.40
+How much was supper? $56.96
+Your total for the day was $92.31
+
+Were you away another day (Y/N)? Y
+
+For Day 2
+
+How much was breakfast? $2.99
+How much was lunch? $15.99
+How much was supper? $20.97
+Your total for the day was $39.95
+
+Were you away another day (Y/N)? N
+Total:
+Breakfast:  $14.94
+Lunch:      $39.39
+Supper:     $77.93
+
+Grand total: $132.26
+
+-------------------------------------------------------
+Task 3
+-------------------------------------------------------
+Enter target number: 1000
+The nearest power of 2 >= 1000 is 1024
+
+Enter target number: 1
+The nearest power of 2 >= 1 is 2
+
+-------------------------------------------------------
+Task 4
+-------------------------------------------------------
+Monthly budget: $5000
+Enter an expense (0 to quit): $200
+Enter another expense (0 to quit): $600
+Enter another expense (0 to quit): $950
+Enter another expense (0 to quit): $50
+Enter another expense (0 to quit): $123
+Enter another expense (0 to quit): $50
+Enter another expense (0 to quit): $0
+Surplus: $3,027.00
+
+Monthly budget: $1500
+Enter an expense (0 to quit): $500
+Enter another expense (0 to quit): $600
+Enter another expense (0 to quit): $800
+Enter another expense (0 to quit): $200
+Enter another expense (0 to quit): $0
+Surplus: $-600.00
+
+Monthly budget: $1500
+Enter an expense (0 to quit): $200
+Enter another expense (0 to quit): $900
+Enter another expense (0 to quit): $400
+Enter another expense (0 to quit): $0
+Balanced
+
+-------------------------------------------------------
+Task 5
+-------------------------------------------------------
+Enter budget: 25000
+Expenses for day 1: $100
+Expenses for day 2: $5600
+Expenses for day 3: $2500
+Expenses for day 4: $900
+Expenses for day 5: $1450
+Expenses for day 6: $3000
+Expenses for day 7: $560
+
+Expenses: $14,110.00
+Balance: $10,890.00
+
+-------------------------------------------------------
+Task 6
+-------------------------------------------------------
+First value: 50
+Next value: -12
+Next value: 2
+Next value: 5
+Next value: 0
+Total: 45.00
+Average: 11.25
+
+-------------------------------------------------------
+Task 7
+-------------------------------------------------------
+First value: 500
+Next value: -2
+Next value: -150
+Next value: 5
+Next value: 0
+Minimum: -150.0
+Maximum: 500.0
+
+-------------------------------------------------------
+Task 8
+-------------------------------------------------------
+First value: 5
+Next value: -2
+Next value: 5
+Next value: 9
+Next value: 6
+Next value: 7
+Next value: -5
+Next value: -2
+Next value: -1
+Next value: 0
+Number of positive values: 5
+Number of negative values: 4
+
+-------------------------------------------------------
+Task 9
+-------------------------------------------------------
+Starting Celsius temperature: -40
+Ending Celsius temperature: 3
+Celsius	Fahrenheit
+-----------------------
+-40	-40
+-39	-38
+-38	-36
+-37	-34
+-36	-32
+-35	-31
+-34	-29
+-33	-27
+-32	-25
+-31	-23
+-30	-22
+-29	-20
+-28	-18
+-27	-16
+-26	-14
+-25	-13
+-24	-11
+-23	-9
+-22	-7
+-21	-5
+-20	-4
+-19	-2
+-18	0
+-17	1
+-16	3
+-15	5
+-14	6
+-13	8
+-12	10
+-11	12
+-10	14
+-9	15
+-8	17
+-7	19
+-6	21
+-5	23
+-4	24
+-3	26
+-2	28
+-1	30
+0	32
+1	33
+2	35
+3	37
+
+-------------------------------------------------------
+Task 10
+-------------------------------------------------------
+Starting Fahrenheit temperature: -40
+Ending Fahrenheit temperature: -5
+Fahrenheit	Celsius
+-----------------------
+-40	-40
+-39	-39
+-38	-38
+-37	-38
+-36	-37
+-35	-37
+-34	-36
+-33	-36
+-32	-35
+-31	-35
+-30	-34
+-29	-33
+-28	-33
+-27	-32
+-26	-32
+-25	-31
+-24	-31
+-23	-30
+-22	-30
+-21	-29
+-20	-28
+-19	-28
+-18	-27
+-17	-27
+-16	-26
+-15	-26
+-14	-25
+-13	-25
+-12	-24
+-11	-23
+-10	-23
+-9	-22
+-8	-22
+-7	-21
+-6	-21
+-5	-20
+
+-------------------------------------------------------
+Task 11
+-------------------------------------------------------
+Employee ID: 125
+Hourly wage rate: 50
+Hours worked: 60
+Net payment for employee 125: $3,373.12
+
+Employee ID: 128
+Hourly wage rate: 40
+Hours worked: 40
+Net payment for employee 128: $1,542.00
+
+Employee ID: 0
+---------------------------
+Total payment:   $4,915.12
+Average payment: $2,457.56
+
+-------------------------------------------------------
+Task 12
+-------------------------------------------------------
+Enter the min value: -100
+Enter the max value: 100
+Enter an integer -100 <= n <= 100: 101
+Bad value!
+Enter an integer -100 <= n <= 100: -150
+Bad value!
+Enter an integer -100 <= n <= 100: 50
+You entered: 50
+
+-------------------------------------------------------
+Task 13
+-------------------------------------------------------
+Enter an integer: 7
+7! = 7 * 6 * 5 * 4 * 3 * 2 * 1 = 5040
+
+Enter an integer: 56
+56! = 56 * 55 * 54 * 53 * 52 * 51 * 50 * 49 * 48 * 47 * \
+46 * 45 * 44 * 43 * 42 * 41 * 40 * 39 * 38 * 37 * 36 * \
+35 * 34 * 33 * 32 * 31 * 30 * 29 * 28 * 27 * 26 * 25 * \
+24 * 23 * 22 * 21 * 20 * 19 * 18 * 17 * 16 * 15 * 14 * \
+13 * 12 * 11 * 10 * 9 * 8 * 7 * 6 * 5 * 4 * 3 * 2 * 1 \
+= 710998587804863451854045647463724949736497978881168458687447040000000000000
+
+-------------------------------------------------------
+Task 14
+-------------------------------------------------------
+Enter an integer: 156352
+It is not a prime number.
+
+Enter an integer: 99999999999995
+It is a prime number.
+
+Enter an integer: 1
+It is not a prime number.
+
+-------------------------------------------------------
+Task 15
+-------------------------------------------------------
+Enter first value: 51
+Enter next value: 20
+Enter next value: -450
+Enter next value: 50
+Enter next value: 500
+Enter next value: 0
+
+Minimum: -450.00
+Maximum: 500.00
+Total: 171.00
+Average: 34.20
+
+-------------------------------------------------------
